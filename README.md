@@ -15,6 +15,23 @@
 
 ###
 
+## 🏅 Achievements
+
+- ✅ Solved **200+ DSA Problems** on LeetCode  
+- 🎓 3rd Year IT Engineering Student at SPPU 
+
+---
+
+## 🏆 Competitive Programming
+
+### 🥇 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Prajwal_Dube?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
+
 ### 🛠 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
