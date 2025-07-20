@@ -10,7 +10,7 @@
 
 ###
 
-<!-- 👦 Coding GIF -->
+<!-- 👨‍💻 Coding GIF -->
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-boy" />
 
 ###
@@ -18,7 +18,8 @@
 ## 🏅 Achievements
 
 - ✅ Solved **200+ DSA Problems** on LeetCode  
-- 🎓 3rd Year IT Engineering Student at SPPU 
+- 🥈 Highest Rating **1248** on CodeChef  
+- 🎓 3rd Year IT Engineering Student at SPPU  
 
 ---
 
@@ -30,7 +31,6 @@
 </div>
 
 ---
-
 
 ### 🛠 Tech Stack
 <div align="left">
@@ -70,4 +70,3 @@
 ###
 
 <br clear="both">
-
