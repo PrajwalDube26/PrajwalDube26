@@ -18,7 +18,7 @@
 ## 🏅 Achievements
 
 - ✅ Solved **230+ DSA Problems** on LeetCode  
-- 🥈 Highest Rating **1320** on CodeChef  
+- 🥈 Highest Rating **1331** on CodeChef  
 - 🎓 3rd Year IT Engineering Student at SPPU  
 
 ---
