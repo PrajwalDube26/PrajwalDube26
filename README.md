@@ -28,11 +28,6 @@
 <div align="center">
   <!-- LeetCode -->
   <img src="https://leetcard.jacoblin.cool/Prajwal_Dube?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-  &nbsp;&nbsp;
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/prajwal_dube">
-    <img src="https://codechef-readme-stats.onrender.com/prajwal_dube?v=1" alt="CodeChef Stats" />
-  </a>
 </div>
 
 ---
