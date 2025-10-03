@@ -17,8 +17,8 @@
 
 ## 🏅 Achievements
 
-- ✅ Solved **230+ DSA Problems** on LeetCode  
-- 🥈 Highest Rating **1331** on CodeChef  
+- ✅ Solved **250+ DSA Problems** on LeetCode  
+- 🥈 Highest Rating **1345** on CodeChef  
 - 🎓 3rd Year IT Engineering Student at SPPU  
 
 ---
@@ -29,6 +29,12 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Prajwal_Dube?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
+
+
+<a href="https://www.codechef.com/users/prajwal_dube">
+  <img src="https://codechef-readme-stats.onrender.com/prajwal_dube?v=1" alt="CodeChef Stats" />
+</a>
+
 
 ---
 
