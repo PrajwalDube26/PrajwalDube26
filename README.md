@@ -17,7 +17,7 @@
 
 ## 🏅 Achievements
 
-- ✅ Solved  650+  coding problems across various platforms like Leetcode, GFG, CodeChef
+- ✅ Solved  700+  coding problems across various platforms like Leetcode, GFG, CodeChef
 - 🥈 max 2★ in CodeChef weekly contest.  
 - 🎓 3rd Year IT Engineering Student at SPPU  
 
