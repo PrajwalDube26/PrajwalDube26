@@ -8,6 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalDube26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=PrajwalDube26&color=6366f1&style=flat-square&label=Profile+Views)
+
+
 ###
 
 <!-- 👨‍💻 Coding GIF -->
