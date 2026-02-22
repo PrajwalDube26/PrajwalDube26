@@ -30,6 +30,13 @@
   LeetCode Stats
 </h3>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Prajwal_Dube?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Suyash1987/)
+
+**Practice Profiles:**  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prajwal_Dube/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prajwal_dube)
+
+
 ---
 
 ### 🛠 Tech Stack
