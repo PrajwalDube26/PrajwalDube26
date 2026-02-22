@@ -25,10 +25,10 @@
 
 ### 🏆 Competitive Programming Stats
 
-<div align="center">
-  <!-- LeetCode -->
-  <img src="https://leetcard.jacoblin.cool/Prajwal_Dube?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-</div>
+<h3>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="35"/>
+  LeetCode Stats
+</h3>
 
 ---
 
